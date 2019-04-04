@@ -1,0 +1,27 @@
+/*
+  font-family: 'Heebo', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Slabo 27px', serif;
+ */
+
+
+@import url('https://fonts.googleapis.com/css?family=Heebo|Oswald|Slabo+27px');
+
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: 'Heebo', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  max-width: 100%;
+}
+
+#container2{
+  background-color: #5F9FF3;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  max-width: none;
+}

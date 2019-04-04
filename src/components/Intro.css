@@ -1,0 +1,87 @@
+.hidden {
+    visibility: hidden;
+}
+
+.font1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#Intro {
+    margin-top: 12em;
+    margin-bottom: 17em;
+}
+
+#intro p {
+    font-family: 'Slabo 27px', serif;
+    font-size: .9em;
+}
+
+.Intro h1{
+    animation-name: heading;
+    position: relative;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes heading {
+    0%   {top: -80rem;}
+    100% {top: -2rem;}
+}
+
+.Intro p {
+    animation-name: para;
+    position: relative;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes para {
+    0%   {left: -1000px;}
+    100% {left: 0;}
+}
+
+.start {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border: black 1px solid;
+    margin-top:40px;
+    opacity: 0;
+    animation-name: start;
+    animation-duration: 3s;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+
+    transition-property: transform;
+    transition-duration: 1s;
+}
+
+#start:hover {
+    transform: rotateY(180deg);
+}
+
+@keyframes start {
+    0%   {opacity:0}
+    100% {opacity: 1}
+}
+
+#Intro img {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 10rem;
+    margin-left: 63rem;
+}
+
+.down {
+    animation-name: down;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    position: relative;
+}
+
+@keyframes down {
+    0% {bottom: -30rem}
+    100% {bottom: 0}
+}
+

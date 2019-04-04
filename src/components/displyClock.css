@@ -1,0 +1,57 @@
+.time {
+    margin-top: 3rem;
+}
+
+#displyClock{
+    margin: 0;
+    padding: 0;
+    max-width: none;
+    height: 47rem;
+}
+
+#displyClock .container {
+    overflow: hidden;
+}
+
+#displyClock span {
+    font-size: 6em;
+}
+
+#timeClock {
+    margin: 0;
+    padding: 0;
+    max-width: none;
+    height: 22rem;
+    background: url("img/53096861-stock-vector-vector-modern-seamless-sacred-geometry-pattern-trippy-black-and-white-abstract-geometric-background-.jpg") repeat-x;
+    width: 5076px; /* The image width times 3 */
+    animation: slide 10s linear infinite;
+    position: relative;
+    z-index: 100;
+}
+
+@keyframes slide {
+    0%{
+        transform: translate3d(0, 0, 0);
+    }
+    100%{
+        transform: translate3d(-1692px, 0, 0); /* The image width */
+    }
+}
+
+#timeDis {
+    margin-bottom: 8rem;
+    margin-top: -19rem;
+    position: relative;
+    z-index: 100;
+}
+
+#clockButtons {
+    margin-top: 14rem;
+}
+
+#displyClock img {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 5rem;
+    margin-left: 69rem;
+}

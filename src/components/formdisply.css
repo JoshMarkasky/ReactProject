@@ -1,0 +1,25 @@
+.colum{
+    margin-top: 10rem;
+}
+
+#formdisply {
+    background-color: #8A859C;
+    height: 50rem;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
+#formdisply p {
+    margin-top: 8rem;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+}
+
+#form1 img {
+    height: 4rem;
+    width: 4rem;
+    margin-top: 5rem;
+    margin-right: 3rem;
+}
+
