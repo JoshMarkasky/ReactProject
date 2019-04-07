@@ -1,17 +1,17 @@
 {
-  "main.css": "/ReactProject/static/css/main.eb8d4220.chunk.css",
-  "main.js": "/ReactProject/static/js/main.8f12c1e4.chunk.js",
-  "main.js.map": "/ReactProject/static/js/main.8f12c1e4.chunk.js.map",
+  "main.css": "/ReactProject/static/css/main.af6f877d.chunk.css",
+  "main.js": "/ReactProject/static/js/main.344c4051.chunk.js",
+  "main.js.map": "/ReactProject/static/js/main.344c4051.chunk.js.map",
   "runtime~main.js": "/ReactProject/static/js/runtime~main.4b0828e1.js",
   "runtime~main.js.map": "/ReactProject/static/js/runtime~main.4b0828e1.js.map",
   "static/css/2.ee9cba78.chunk.css": "/ReactProject/static/css/2.ee9cba78.chunk.css",
   "static/js/2.c2b2c915.chunk.js": "/ReactProject/static/js/2.c2b2c915.chunk.js",
   "static/js/2.c2b2c915.chunk.js.map": "/ReactProject/static/js/2.c2b2c915.chunk.js.map",
   "index.html": "/ReactProject/index.html",
-  "precache-manifest.b6b02664dde4e54e553e6643535d33c5.js": "/ReactProject/precache-manifest.b6b02664dde4e54e553e6643535d33c5.js",
+  "precache-manifest.66ea60af106ce49263497597a2e8b0d6.js": "/ReactProject/precache-manifest.66ea60af106ce49263497597a2e8b0d6.js",
   "service-worker.js": "/ReactProject/service-worker.js",
   "static/css/2.ee9cba78.chunk.css.map": "/ReactProject/static/css/2.ee9cba78.chunk.css.map",
-  "static/css/main.eb8d4220.chunk.css.map": "/ReactProject/static/css/main.eb8d4220.chunk.css.map",
+  "static/css/main.af6f877d.chunk.css.map": "/ReactProject/static/css/main.af6f877d.chunk.css.map",
   "static/media/displyClock.css": "/ReactProject/static/media/53096861-stock-vector-vector-modern-seamless-sacred-geometry-pattern-trippy-black-and-white-abstract-geometric-background-.ac647e94.jpg",
   "static/media/arrow-down.svg": "/ReactProject/static/media/arrow-down.274cd8bd.svg"
 }

@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/ReactProject/static/js/runtime~main.4b0828e1.js"
   },
   {
-    "revision": "c770aa34e0d4b68c0c7c",
-    "url": "/ReactProject/static/js/main.8f12c1e4.chunk.js"
+    "revision": "bdd680e36ba5bc14745e",
+    "url": "/ReactProject/static/js/main.344c4051.chunk.js"
   },
   {
     "revision": "fefb6f2c65decb6c272b",
     "url": "/ReactProject/static/js/2.c2b2c915.chunk.js"
   },
   {
-    "revision": "c770aa34e0d4b68c0c7c",
-    "url": "/ReactProject/static/css/main.eb8d4220.chunk.css"
+    "revision": "bdd680e36ba5bc14745e",
+    "url": "/ReactProject/static/css/main.af6f877d.chunk.css"
   },
   {
     "revision": "fefb6f2c65decb6c272b",
     "url": "/ReactProject/static/css/2.ee9cba78.chunk.css"
   },
   {
-    "revision": "d2d1cf64be69b182a3d235823c9f9bb2",
+    "revision": "d027d1c67e6d155573ac9b93e4fb00cb",
     "url": "/ReactProject/index.html"
   }
 ];
